@@ -1,0 +1,43 @@
+{
+  "interactionModel": {
+    "languageModel": {
+      "invocationName": "chicago fun facts",
+      "intents": [
+        {
+          "name": "AMAZON.CancelIntent",
+          "samples": []
+        },
+        {
+          "name": "AMAZON.HelpIntent",
+          "samples": []
+        },
+        {
+          "name": "AMAZON.StopIntent",
+          "samples": []
+        },
+        {
+          "name": "ChicagoFunFactsIntent",
+          "slots": [],
+          "samples": [
+            "what\u0027s a chicago fun fact",
+            "what\u0027s a fun fact about chicago",
+            "tell me a fun fact about chicago",
+            "what\u0027s something interesting about chicago",
+            "tell me something interesting about chicago",
+            "tell me a chicago fun fact"
+          ]
+        },
+        {
+          "name": "AMAZON.NavigateHomeIntent",
+          "samples": []
+        },
+        {
+          "name": "AMAZON.FallbackIntent",
+          "samples": []
+        }
+      ],
+      "types": []
+    }
+  },
+  "version": "7"
+}

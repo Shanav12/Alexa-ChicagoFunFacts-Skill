@@ -1,0 +1,11 @@
+module.exports = [
+    "Home to the popular Chicago-style hot dogs, the city is home to over 2,000 hot dog stands, much more than McDonald’s, Burger Kings and Wendy’s.",
+    "A fun fact about Chicago is that the brownie was invented at the Palmer House, when Bertha Palmer wanted a new dessert to serve at the World’s Columbian Exposition in 1893",
+    "Chicago deep-dish pizza was invented by Ike Sewell and Ric Riccardo. These two used their love for business and Italian cuisine and opened Pizzeria Uno in Chicago in 1943.",
+    "When it comes to television, the NBC 5 Chicago/ WAMQ station became the world’s first all-colour station in 1956, after a lot of hard work. Soon after, in 1986, the station also became the city’s first commercial one to broadcast in stereo.",
+    "In the largest public earth-moving project ever completed, in 1900 the Chicago River was engineered to flow backwards! This incredible achievement has a very practical purpose: to divert sewage away from Lake Michigan’s freshwater supply.",
+    "The nickname The Windy City doesn't come from the cool gusts of air blowing off Lake Michigan. The name actually originates from the 1870's article referring to the city's politicians being full of hot air due to their boastful manners.",
+    "The Chicago Water Tower and Pumping Station, which still stands on North Michigan Avenue on The Magnificent Mile, was the only iconic structure left standing after The Great Fire of 1871. Today, the water tower serves as a gallery, housing a city art museum.",
+    "In 1893, Provident Hospital became the first hospital in the country to have open-heart surgery, with Daniel Hale Williams being the one to perform it. He happened to be one of the few black physicians in Chicago and graduated from Northwestern University.",
+    "The fact that over one-fifth of the doctors in the country have undergone some form of medical training in Chicago and that it houses the country’s first and largest medical centre led to it being known as the medical centre of the U.S.",
+];

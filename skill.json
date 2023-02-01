@@ -1,0 +1,72 @@
+{
+  "manifest": {
+    "publishingInformation": {
+      "locales": {
+        "en-US": {
+          "summary": "Gives users a random fun fact of Chicago.",
+          "examplePhrases": [
+            "Alexa open chicago fun facts"
+          ],
+          "keywords": [
+            "Fun",
+            "facts",
+            "about",
+            "Chicago"
+          ],
+          "name": "Chicago Fun Facts",
+          "description": "Edited the existing custom template to create an Alexa Skill that would give users a random fun fact about the city of Chicago. Carried this out through implementing a ChicagoFunFacts intent that used a manually inputted list of 10 random fun facts that the user would be able to hear.",
+          "smallIconUri": "file://assets/images/en-US_smallIconUri.png",
+          "largeIconUri": "file://assets/images/en-US_largeIconUri.png"
+        }
+      },
+      "automaticDistribution": {
+        "isActive": false
+      },
+      "isAvailableWorldwide": true,
+      "testingInstructions": "No specific instructions required.",
+      "category": "EDUCATION_AND_REFERENCE",
+      "distributionMode": "PUBLIC",
+      "distributionCountries": []
+    },
+    "apis": {
+      "custom": {
+        "endpoint": {
+          "uri": "arn:aws:lambda:us-east-1:667953034598:function:19fb63d6-3f62-49e6-ac59-2bcf92a28999:Release_0"
+        },
+        "interfaces": [],
+        "regions": {
+          "EU": {
+            "endpoint": {
+              "uri": "arn:aws:lambda:eu-west-1:667953034598:function:19fb63d6-3f62-49e6-ac59-2bcf92a28999:Release_0"
+            }
+          },
+          "NA": {
+            "endpoint": {
+              "uri": "arn:aws:lambda:us-east-1:667953034598:function:19fb63d6-3f62-49e6-ac59-2bcf92a28999:Release_0"
+            }
+          },
+          "FE": {
+            "endpoint": {
+              "uri": "arn:aws:lambda:us-west-2:667953034598:function:19fb63d6-3f62-49e6-ac59-2bcf92a28999:Release_0"
+            }
+          }
+        }
+      }
+    },
+    "manifestVersion": "1.0",
+    "privacyAndCompliance": {
+      "allowsPurchases": false,
+      "locales": {
+        "en-US": {}
+      },
+      "containsAds": false,
+      "isExportCompliant": true,
+      "isChildDirected": false,
+      "shoppingKit": {
+        "isShoppingActionsEnabled": false,
+        "isAmazonAssociatesOnAlexaEnabled": false
+      },
+      "usesPersonalInfo": false
+    }
+  }
+}
